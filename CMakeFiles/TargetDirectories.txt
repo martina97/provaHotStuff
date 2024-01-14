@@ -1,0 +1,3 @@
+/home/martina/CLionProjects/provaHotStuff/CMakeFiles/provaHotStuff.dir
+/home/martina/CLionProjects/provaHotStuff/CMakeFiles/edit_cache.dir
+/home/martina/CLionProjects/provaHotStuff/CMakeFiles/rebuild_cache.dir
